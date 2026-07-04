@@ -24,8 +24,9 @@ Features:
 - Route profitability breakdown (profit %, avg delay, flight count)
 - Interactive filters by Region and Route
 
-- Dashboard Preview
 
+
+# Dashboard Preview
 - <img width="757" height="595" alt="AAPD" src="https://github.com/user-attachments/assets/1074afd1-06cc-491b-bf42-0d3db568a231" />
 
 Tools: Power BI, DAX
